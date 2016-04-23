@@ -10,7 +10,28 @@ Project made based on www.raywenderlich.com iOS Apprentice Tutorial Part 1 (More
 - View Controllers
 - Target-Action pattern
 - UIAlertController
-- 
+- Supported Device Orientations
+- UILabel
+- UISlider
+- Strings
+- Variables
+- Functions and methods
+- Scope of variables
+- Comments
+- UITextView
+- Segues and transitions
+- Info.plist
+- Assets
+- UIImageView
+- UIFont
+- UIColor
+- UIWebView
+- NSBundle
+- NSData
+- Autolayout, constraints
+- UIView
+- App Icons and Launch Images
+- QuartzCore animations
 
 
 
